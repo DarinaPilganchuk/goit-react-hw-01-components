@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DarinaPilganchuk/static/css/main.f19dcb28.css",
-    "main.js": "/DarinaPilganchuk/static/js/main.41eea8f0.js",
-    "index.html": "/DarinaPilganchuk/index.html",
-    "main.f19dcb28.css.map": "/DarinaPilganchuk/static/css/main.f19dcb28.css.map",
-    "main.41eea8f0.js.map": "/DarinaPilganchuk/static/js/main.41eea8f0.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.f19dcb28.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.41eea8f0.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.f19dcb28.css.map": "/goit-react-hw-01-components/static/css/main.f19dcb28.css.map",
+    "main.41eea8f0.js.map": "/goit-react-hw-01-components/static/js/main.41eea8f0.js.map"
   },
   "entrypoints": [
     "static/css/main.f19dcb28.css",
