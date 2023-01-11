@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DarinaPilganchuk/static/css/main.f19dcb28.css",
+    "main.js": "/DarinaPilganchuk/static/js/main.41eea8f0.js",
+    "index.html": "/DarinaPilganchuk/index.html",
+    "main.f19dcb28.css.map": "/DarinaPilganchuk/static/css/main.f19dcb28.css.map",
+    "main.41eea8f0.js.map": "/DarinaPilganchuk/static/js/main.41eea8f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19dcb28.css",
+    "static/js/main.41eea8f0.js"
+  ]
+}
